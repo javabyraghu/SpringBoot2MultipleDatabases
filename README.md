@@ -11,3 +11,4 @@ create database db2;
 use db2;
 show tables;
 select * from customer;
+
